@@ -20,7 +20,7 @@ $ [ ] Splite Total with different number of people
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/ITpNT' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/a/ITpNT/tippy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
